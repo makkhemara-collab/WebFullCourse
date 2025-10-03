@@ -9,6 +9,9 @@ function test(){
     }
     console.log(w);
     console.log(z);
+    console.log(w);
+    console.log(z);
+    
 
 }
 

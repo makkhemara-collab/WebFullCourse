@@ -15,7 +15,8 @@ function test(){
     console.log(z);
     console.log(w);
     console.log(z);
-
+console.log(w);
+    console.log(z);
 }
 
 test();
